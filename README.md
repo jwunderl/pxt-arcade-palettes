@@ -1,4 +1,4 @@
-# jwunderl-pxt-arcade-palettes
+# pxt-arcade-palettes
 
 
 
