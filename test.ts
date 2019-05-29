@@ -1,1 +1,2 @@
-// tests go here; this will not be compiled when this package is used as a library
+
+console.log(palette.gradient(0xFFFFFF, 0x000000, 15) + "")
